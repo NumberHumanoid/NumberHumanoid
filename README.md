@@ -22,9 +22,9 @@ Continuously learning about new technologies and methodologies in the field of d
 * [Ad-Hoc: Absenteeism Dashboard (SQL + PowerBI)](https://github.com/NumberHumanoid/HR_Absenteeism)
 * [Excel Business Worksheets]
 
-## 📝 Latest Blog posts from a (Data) Analyst
+## 📝 Latest Blog posts
 * Statistics 101
-* Scientific Method in Data Analysis
+* The Scientific Method in Data Analysis
 * R Programming Crash Course
 
 

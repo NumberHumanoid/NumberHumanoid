@@ -16,11 +16,12 @@ Continuously learning about new technologies and methodologies in the field of d
 
 
 ## 🗃️ Latest Projects
+* [Marketing Sales Optimization (R)](https://github.com/NumberHumanoid/Marketing-Campaign-Optimization)
 * [Health Insurance Linear Regression Analysis (R)](https://github.com/NumberHumanoid/Health-Insurance-Analysis)
 * [Financial Statements Dashboard (Excel + Power BI)](https://github.com/NumberHumanoid/Financial-Statement-Dashboard)
 * [Ecommerce Sales Insights Dashboard (SQL + PowerBI)](https://github.com/NumberHumanoid/Ecommerce_Sales_Dashboard)
 * [Ad-Hoc: Absenteeism Dashboard (SQL + PowerBI)](https://github.com/NumberHumanoid/HR_Absenteeism)
-* [Excel Business Worksheets]
+* [Excel Business Worksheets]()
 
 ## 📝 Latest Blog posts
 * Statistics 101

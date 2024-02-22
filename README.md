@@ -16,6 +16,7 @@ Continuously learning about new technologies and methodologies in the field of d
 
 
 ## 🗃️ Latest Projects
+* [E-Commerce Fashion Inventory EDA (R)](https://github.com/NumberHumanoid/E-Commerce-Fashion-Retail-EDA-)
 * [Marketing Sales Optimization (R)](https://github.com/NumberHumanoid/Marketing-Campaign-Optimization)
 * [Health Insurance Linear Regression Analysis (R)](https://github.com/NumberHumanoid/Health-Insurance-Analysis)
 * [Financial Statements Dashboard (Excel + Power BI)](https://github.com/NumberHumanoid/Financial-Statement-Dashboard)

@@ -1,7 +1,7 @@
 
 
 
-### Hi there! 👋
+## Hi there! 👋
 I'm Franklin, a driven and analytical professional with a B.S. in Business Adminstration, specializing in E-Business. 
 My academic and professional journey has *fueled* a deep passion for leveraging my strategic management skills and tactiful data-driven decisions to drive business growth and operational excellence. 
 
@@ -9,9 +9,9 @@ With hands-on managerial experience in two fast-paced startup environments, incl
   - At VPR Collection, I oversaw all warehouse operations, demonstrating my capability in managing logistics, production, neogioation, and partnerships, notably with Juice Supply Company (JSC). 
   - At BYOB A Boba Company, during the critical COVID-19 pandemic, I adeptly shifted our business model to a delivery-centric approach, ensuring continued customer satisfaction and operational efficiency.
 
-I am particularly skilled in inventory management, process optimization, and developing strategic allocation plans that balance demand with inventory levels, reducing waste and maximizing financial outcomes. My experience working collaboratively with cross-functional teams to optimize operations and drive strategic initiatives makes me an ideal candidate for roles that require analytical acumen, strategic foresight, and a proactive approach to problem-solving.
+    - I am particularly skilled in inventory management, process optimization, and developing strategic allocation plans that balance demand with inventory levels, reducing waste and maximizing financial outcomes. My experience working collaboratively with cross-functional teams to optimize operations and drive strategic initiatives makes me an ideal candidate for roles that require analytical acumen, strategic foresight, and a proactive approach to problem-solving.
 
-🌱 What I'm Focused On:
+## 🌱 What I'm Focused On:
 
 Immersing myself in the world of data science and machine learning.
 Developing practical skills through projects that demonstrate my ability to analyze data and derive actionable insights.
@@ -22,9 +22,9 @@ Continuously learning about new technologies and methodologies in the field of d
 
 
 ## 🗃️ Latest Projects
+* [Health Insurance Linear Regression Analysis (R)](https://github.com/NumberHumanoid/Health-Insurance-Analysis)
 * [E-Commerce Fashion Inventory EDA (R)](https://github.com/NumberHumanoid/E-Commerce-Fashion-Retail-EDA-)
 * [Marketing Sales Optimization (R)](https://github.com/NumberHumanoid/Marketing-Campaign-Optimization)
-* [Health Insurance Linear Regression Analysis (R)](https://github.com/NumberHumanoid/Health-Insurance-Analysis)
 * [Financial Statements Dashboard (Excel + Power BI)](https://github.com/NumberHumanoid/Financial-Statement-Dashboard)
 * [Ecommerce Sales Insights Dashboard (SQL + PowerBI)](https://github.com/NumberHumanoid/Ecommerce_Sales_Dashboard)
 * [Ad-Hoc: Absenteeism Dashboard (SQL + PowerBI)](https://github.com/NumberHumanoid/HR_Absenteeism)

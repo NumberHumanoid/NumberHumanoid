@@ -2,14 +2,18 @@
 
 
 ### Hi there! 👋
-I'm Franklin, a recent graduate with a B.S. in Business Administration, specializing in E-Business.
-My academic journey has sparked a profound interest in data science and machine learning, areas where I am actively expanding my expertise.
+I'm Franklin, a driven and analytical professional with a B.S. in Business Adminstration, specializing in E-Business. 
+My academic and professional journey has *fueled* a deep passion for leveraging my strategic management skills and tactiful data-driven decisions to drive business growth and operational excellence. 
+
+With hands-on managerial experience in two fast-paced startup environments, including the vape brand VPR Collection and the innovative BYOB Boba Company, I've led significant operational improvements and financial growth. At VPR Collection, I oversaw all warehouse operations, demonstrating my capability in managing logistics, production, neogioation, and partnerships, notably with Juice Supply Company (JSC). Transitioning to the food and beverage industry, managed and ran operations at BYOB A Boba Company, during the critical COVID-19 pandemic, I adeptly shifted our business model to a delivery-centric approach, ensuring continued customer satisfaction and operational efficiency.
+
+I am particularly skilled in inventory management, process optimization, and developing strategic allocation plans that balance demand with inventory levels, reducing waste and maximizing financial outcomes. My experience working collaboratively with cross-functional teams to optimize operations and drive strategic initiatives makes me an ideal candidate for roles that require analytical acumen, strategic foresight, and a proactive approach to problem-solving.
 
 🌱 What I'm Focused On:
 
 Immersing myself in the world of data science and machine learning.
 Developing practical skills through projects that demonstrate my ability to analyze data and derive actionable insights.
-Continuously learning about new technologies and methodologies in the field of data science.
+Continuously learning about new technologies and methodologies in the field of data science & business.
 
 ## 👨‍💻 Stack
 ![Static Badge](https://img.shields.io/badge/Language-MySQL-blue)  ![Static Badge](https://img.shields.io/badge/Language-R-blue)  ![Static Badge](https://img.shields.io/badge/Language-Python-blue)  ![Static Badge](https://img.shields.io/badge/Language-PowerBI-orange)  ![Static Badge](https://img.shields.io/badge/Language-Excel-orange)  
@@ -25,9 +29,9 @@ Continuously learning about new technologies and methodologies in the field of d
 * [Excel Business Worksheets]()
 
 ## 📝 Latest Blog posts
-* Statistics 101
-* The Scientific Method in Data Analysis
-* R Programming Crash Course
+* [Statistics 101](https://github.com/NumberHumanoid/Blog-Stats-101)
+* [The Scientific Method in Data Analysis](https://github.com/NumberHumanoid/Blog-Scientific-Method-in-Data-Analysis)
+* [R Programming Crash Course]()
 
 
 
